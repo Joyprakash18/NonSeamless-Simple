@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_0658c3f0829d4d3c97b47772c082560dcd292628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d2ce69dd25a46575b3ff3d218dea630855275c38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_e2d8765c465f30202baf26a15c6777798a39b763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\03a75e057c52cfc3b85b822ccbc369fdc6a71c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_8e49000a48b0b68018ca6f5727407a1d7f3d6a86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0e8dfdad11762c8ecd328eeaf5a1f82a45a0fd66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6a1348ac6f3e2890a2cd7637b1e18f969ccc1e5">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28abbd163638ae8ebff55b2372326c47347d7a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9690a0686e390e37abf5606cb335cb1c6b45c7d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\86e85326984859c52b2e9902933dd951bc63a824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_87c3b7a7c00dc122fa59e2b10da746f67f4816b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b8a882d92fa2e88cbef33b9775954400dc2686a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_db99bdbf7f472eeeddcca6c30bc3f50ec9b81d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a49dfad1b544784e92076cf1553c3e81c46eb281\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_088e0cb99942da31703402553b590b56cf6d3b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d9ce2b63477a4587ab28d22e57472d2276c1cbd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_5cc4bfd2ecf419ef24a221623a7df926d087881c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ce0b9b5d728087d4a0fa1dfa06307b56f23f821">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_396e0c0ad19c038bdaeb4166565b7385fc78d525\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_8f5e18fa59937fbe5f0cc8734a8868cf99983ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d88eeab0dc71efffeafa16c7934485ddb5f1c1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_ba454bf17a1bb493b91a185c4ba7b3e3f61b0bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_0240060adedb8f368d6e3681c4b938f198fee862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\13009912916dfcec90ddae07e3a6da2e311f55c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_1dd9bf230b3d47abf49846585cfb73c54886a888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\42a72e6d1e1bf37a88d6a4c4f052b3b9d524569c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\build\intermediates\pre-dexed\debug\classes_f97f0f33ce1a899c1b8c23f002a6e91fb0e5c34a.jar" />
+    </item>
+
+</items>
