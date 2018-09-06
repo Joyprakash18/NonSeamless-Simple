@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:5-73
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Admin\.android\build-cache\0e8dfdad11762c8ecd328eeaf5a1f82a45a0fd66\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\d88eeab0dc71efffeafa16c7934485ddb5f1c1eb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\d9ce2b63477a4587ab28d22e57472d2276c1cbd5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\03a75e057c52cfc3b85b822ccbc369fdc6a71c92\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\42a72e6d1e1bf37a88d6a4c4f052b3b9d524569c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\86e85326984859c52b2e9902933dd951bc63a824\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\b8a882d92fa2e88cbef33b9775954400dc2686a3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\a49dfad1b544784e92076cf1553c3e81c46eb281\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\d2ce69dd25a46575b3ff3d218dea630855275c38\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:8:2-63
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:8:19-61
+application
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Admin\.android\build-cache\0e8dfdad11762c8ecd328eeaf5a1f82a45a0fd66\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\d88eeab0dc71efffeafa16c7934485ddb5f1c1eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\d9ce2b63477a4587ab28d22e57472d2276c1cbd5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\03a75e057c52cfc3b85b822ccbc369fdc6a71c92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\42a72e6d1e1bf37a88d6a4c4f052b3b9d524569c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\86e85326984859c52b2e9902933dd951bc63a824\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\b8a882d92fa2e88cbef33b9775954400dc2686a3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\a49dfad1b544784e92076cf1553c3e81c46eb281\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\d2ce69dd25a46575b3ff3d218dea630855275c38\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:13:9-43
+	android:icon
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:12:9-52
+activity#com.avenues.lib.activity.InitialScreenActivity
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:16:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.avenues.lib.activity.WebViewActivity
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:24:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:26:13-68
+activity#com.avenues.lib.activity.StatusActivity
+ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\Admin\Downloads\IntegrationKits-WebMobile\IntegrationKits-WebMobile\Mobile\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:31:13-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\d88eeab0dc71efffeafa16c7934485ddb5f1c1eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\d9ce2b63477a4587ab28d22e57472d2276c1cbd5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\03a75e057c52cfc3b85b822ccbc369fdc6a71c92\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\42a72e6d1e1bf37a88d6a4c4f052b3b9d524569c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\86e85326984859c52b2e9902933dd951bc63a824\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\b8a882d92fa2e88cbef33b9775954400dc2686a3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\a49dfad1b544784e92076cf1553c3e81c46eb281\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\d2ce69dd25a46575b3ff3d218dea630855275c38\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\19e593a95529713ad88a8895bef5daadfc233935\output\AndroidManifest.xml:26:9-47
