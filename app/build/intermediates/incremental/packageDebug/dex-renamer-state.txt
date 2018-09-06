@@ -1,0 +1,7 @@
+#Thu Sep 06 17:12:21 IST 2018
+base.0=C\:\\Users\\Admin\\Downloads\\IntegrationKits-WebMobile\\IntegrationKits-WebMobile\\Mobile\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9690a0686e390e37abf5606cb335cb1c6b45c7d9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Admin\\Downloads\\IntegrationKits-WebMobile\\IntegrationKits-WebMobile\\Mobile\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_396e0c0ad19c038bdaeb4166565b7385fc78d525\\classes.dex
+base.1=C\:\\Users\\Admin\\Downloads\\IntegrationKits-WebMobile\\IntegrationKits-WebMobile\\Mobile\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_396e0c0ad19c038bdaeb4166565b7385fc78d525
+file.0=C\:\\Users\\Admin\\Downloads\\IntegrationKits-WebMobile\\IntegrationKits-WebMobile\\Mobile\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9690a0686e390e37abf5606cb335cb1c6b45c7d9\\classes.dex
